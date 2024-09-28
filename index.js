@@ -21,3 +21,11 @@ if (x > 5) {
 for (let i = 0; i < 5; i++) {
     console.log("Iteration: " + i);
 }
+
+
+function greet(name) {
+    return "Hello, " + name + "!";
+}
+
+let greeting = greet("Alice");
+console.log(greeting);
