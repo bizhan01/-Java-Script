@@ -29,3 +29,10 @@ function greet(name) {
 
 let greeting = greet("Alice");
 console.log(greeting);
+
+let fruits = ['Apple', 'Banana', 'Orange'];
+
+// Loop through the array and log each fruit
+fruits.forEach(function(fruit) {
+    console.log(fruit);
+});
