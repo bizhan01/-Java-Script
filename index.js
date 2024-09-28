@@ -54,7 +54,29 @@ console.log(person.city);
 
 
 // Add a click event listener to a button
-let btn = document.getElementById('myButton');
-btn.addEventListener('click', function() {
-    console.log('Button clicked!');
+// let btn = document.getElementById('myButton');
+// btn.addEventListener('click', function() {
+//     console.log('Button clicked!');
+// });
+
+
+
+function getData() {
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            resolve('Data received!');
+        }, 2000);
+    });
+}
+
+getData().then((data) => {
+    console.log(data);
 });
+
+
+// Storing data in local storage
+localStorage.setItem('username', 'Alice');
+
+// Retrieving data from local storage
+let storedUsername = localStorage.getItem('username');
+console.log('Username:', storedUsername);
