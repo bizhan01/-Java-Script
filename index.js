@@ -16,3 +16,8 @@ if (x > 5) {
 } else {
     console.log("x is 5 or less");
 }
+
+
+for (let i = 0; i < 5; i++) {
+    console.log("Iteration: " + i);
+}
