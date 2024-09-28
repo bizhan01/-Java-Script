@@ -36,3 +36,16 @@ let fruits = ['Apple', 'Banana', 'Orange'];
 fruits.forEach(function(fruit) {
     console.log(fruit);
 });
+
+
+
+let person = {
+    name: 'Alice',
+    age: 30,
+    city: 'New York'
+};
+
+// Accessing object properties
+console.log(person.name);
+console.log(person.age);
+console.log(person.city);
