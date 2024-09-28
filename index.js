@@ -49,3 +49,12 @@ let person = {
 console.log(person.name);
 console.log(person.age);
 console.log(person.city);
+
+
+
+
+// Add a click event listener to a button
+let btn = document.getElementById('myButton');
+btn.addEventListener('click', function() {
+    console.log('Button clicked!');
+});
