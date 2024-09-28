@@ -79,7 +79,7 @@ git add .
 
 git commit -m "My Initial Commit"
 
-git remote add origin https://github.com/bizhan01/Face_Recognition-Source-Codes.git
+git remote add origin https://github.com/bizhan01/-Java-Script-codes-for-me.git
 
 git push -u origin master
 
