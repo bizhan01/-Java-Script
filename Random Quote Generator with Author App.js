@@ -6,3 +6,8 @@ const quotes = {
 
 const randomAuthor = Object.keys(quotes)[Math.floor(Math.random() * Object.keys(quotes).length)];
 console.log(`${quotes[randomAuthor]} - ${randomAuthor}`);
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
