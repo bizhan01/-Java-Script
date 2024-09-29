@@ -14,3 +14,8 @@ function displayTodos() {
 addTodo("Buy groceries");
 addTodo("Water the plants");
 displayTodos();
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
