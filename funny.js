@@ -19,3 +19,8 @@ console.log(randomInsult);
 
 
 alert([... '🧙‍♂️🐉🏰🔮💰'].reverse().join(''));
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
