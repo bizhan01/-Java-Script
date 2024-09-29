@@ -5,3 +5,9 @@ function showNextImage() {
     currentImageIndex = (currentImageIndex + 1) % images.length;
     document.getElementById("galleryImage").src = images[currentImageIndex];
 }
+
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
