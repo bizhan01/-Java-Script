@@ -13,3 +13,8 @@ document.getElementById("submitAnswerBtn").addEventListener("click", function() 
     }
     currentQuestionIndex = (currentQuestionIndex + 1) % questions.length;
 });
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
