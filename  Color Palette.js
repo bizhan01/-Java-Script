@@ -4,5 +4,6 @@ document.querySelectorAll('.color').forEach(item => {
     });
 });
 
+// javascript tutorial code 
 // Author: Rahmatullah Bizhan
 // Email: rahmatullahbizhan@gmail.com
