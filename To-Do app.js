@@ -41,3 +41,9 @@ document.getElementById('task-list').addEventListener('click', (event) => {
     app.removeTask(index);
   }
 });
+
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
