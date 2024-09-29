@@ -23,3 +23,7 @@ console.log(subtract(10, 4)); // Output: 6
 console.log(multiply(2, 6));  // Output: 12
 console.log(divide(10, 2));   // Output: 5
 console.log(divide(7, 0));    // Output: Error: Division by zero!
+
+
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com

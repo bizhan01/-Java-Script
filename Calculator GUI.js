@@ -4,3 +4,6 @@ function calculateBMI() {
     const bmi = weight / (height * height);
     document.getElementById('result').innerText = bmi;
 }
+
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com

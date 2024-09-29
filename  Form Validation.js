@@ -6,3 +6,6 @@ document.getElementById("submitBtn").addEventListener("click", function() {
         alert("Please enter a valid email address.");
     }
 });
+
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com

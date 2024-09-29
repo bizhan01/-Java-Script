@@ -9,3 +9,6 @@ function startTimer() {
 function stopTimer() {
     clearInterval(timer);
 }
+
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com

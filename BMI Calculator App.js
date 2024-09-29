@@ -5,3 +5,6 @@ function calculateBMI(weight, height) {
 const weight = 70; // in kilograms
 const height = 1.75; // in meters
 console.log(`BMI: ${calculateBMI(weight, height)}`);
+
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com

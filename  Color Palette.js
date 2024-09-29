@@ -4,5 +4,5 @@ document.querySelectorAll('.color').forEach(item => {
     });
 });
 
-Author: Rahmatullah Bizhan
-Email: rahmatullahbizhan@gmail.com 
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
