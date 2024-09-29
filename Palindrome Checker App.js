@@ -5,3 +5,8 @@ function isPalindrome(str) {
 
 console.log(isPalindrome('radar')); // Output: true
 console.log(isPalindrome('hello')); // Output: false
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
