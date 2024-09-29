@@ -10,3 +10,8 @@ function countdown(seconds) {
 }
 
 countdown(5); // Start a countdown from 5 seconds
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
