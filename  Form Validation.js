@@ -7,5 +7,6 @@ document.getElementById("submitBtn").addEventListener("click", function() {
     }
 });
 
+// javascript tutorial code
 // Author: Rahmatullah Bizhan
 // Email: rahmatullahbizhan@gmail.com
