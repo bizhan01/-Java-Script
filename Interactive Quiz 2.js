@@ -11,3 +11,9 @@ function displayQuestion() {
 function checkAnswer() {
     // Check if the user's answer matches the correct answer
 }
+
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
