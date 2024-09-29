@@ -4,3 +4,8 @@ function rollDice() {
 
 console.log(`Dice 1: ${rollDice()}`);
 console.log(`Dice 2: ${rollDice()}`);
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
