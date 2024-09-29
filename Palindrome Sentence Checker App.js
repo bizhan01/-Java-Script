@@ -5,3 +5,8 @@ function isPalindromeSentence(sentence) {
 }
 
 console.log(isPalindromeSentence("A man, a plan, a canal, Panama!")); // Output: true
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
