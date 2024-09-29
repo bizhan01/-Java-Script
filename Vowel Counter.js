@@ -13,3 +13,8 @@ function countVowels(text) {
 
 const text = 'JavaScript is awesome!';
 console.log(`Number of vowels in "${text}": ${countVowels(text)}`);
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
