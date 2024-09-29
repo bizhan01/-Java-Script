@@ -8,3 +8,8 @@ function generateRandomPassword(length) {
 }
 
 console.log(`Random Password: ${generateRandomPassword(8)}`);
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
