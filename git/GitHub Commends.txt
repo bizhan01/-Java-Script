@@ -2,36 +2,53 @@
                           *    GitHub Commends    *
                           *************************
 
-1- git --version 
-2- git --global user.name Bizhan 
-3- git --global user.email rahmatullahbizhan@gmail.com 
-4- git cofig user.name 
-5- git config user.email 
+                          Uploading project to github
+
+                          git init
+
+                          git add .
+
+                          git commit -m "My Initial Commit"
+
+                          git remote add origin https://github.com/bizhan01/-Java-Script-codes-for-me.git
+
+                          git push -u origin master
+
+                          git push -u -f origin master
+
+
+                          =========================================================
+
+1- git --version
+2- git --global user.name Bizhan
+3- git --global user.email rahmatullahbizhan@gmail.com
+4- git cofig user.name
+5- git config user.email
 ========================================================
-1- git init 
+1- git init
 2- git status (any time can be used)
 3- git add <file name>
-3- git add . 
+3- git add .
 4- git rm --chached <file name>
 5- git commit -m "commit message a descriptive message"
 =========================================================
-After Making Changes into Project 
+After Making Changes into Project
 1- git add .
 2- git status
 3- git commit -m "commit message a descriptive message"
-4- git log 
-4- git log --oneline 
+4- git log
+4- git log --oneline
 ==========================================================
-Checkout / Revert / Reset 
+Checkout / Revert / Reset
 1- git log --oneline
 2- git checkout <commit ID>
-3- git checkout master 
-4- git revert <commit ID> => :wq 
+3- git checkout master
+4- git revert <commit ID> => :wq
 5- git reset <commit ID>
 6- git log --oneline
-7- git reset <commit ID> --hard 
+7- git reset <commit ID> --hard
 ==========================================================
-Creating Branches 
+Creating Branches
 1- git branch <branch name>
 1- git checkout -b <branch name>
 2- git branch -a
@@ -39,25 +56,25 @@ Creating Branches
 4- git branch -d <branch name>
 4- git branch -D <branch name>
 ===========================================================
-Merging Branches 
+Merging Branches
 1- git branch -a (to show all branches)
 2- git checkout <branch name> (switching to another branch)
-3- git marge <branch name> 
-4- git add . 
-5- git commit => :wq 
-6- git log --oneline 
+3- git marge <branch name>
+4- git add .
+5- git commit => :wq
+6- git log --oneline
 ============================================================
-Creating Repository for exiting project 
+Creating Repository for exiting project
 1- home => new
 2- git push <repo url> master
-3- git remote add origin <repo url> 
+3- git remote add origin <repo url>
 4- git pust origin master
 -------------------------------------------------------------
-Creating Ropository and cloning 
+Creating Ropository and cloning
 1- home => new
-2- git clone <repo url> 
+2- git clone <repo url>
 after changes *
-3- git remote -v 
+3- git remote -v
 4- git push origin master/main
 ==============================================================
 Collaborating on GitHub
@@ -66,8 +83,8 @@ Collaborating on GitHub
 3- git add .
 4- git commit -c "commit message"
 5- git push origin <branch name>
-7- click=> Compare & pull request 
-8- click=> create pull request 
+7- click=> Compare & pull request
+8- click=> create pull request
 9- click=> Merge pull request => confirm merge
 ================================================================
 
@@ -87,13 +104,10 @@ git push -u -f origin master
 
 
 =========================================================
-After Making Changes into Project 
+After Making Changes into Project
 1- git add .
 2- git status
 3- git commit -m "commit message a descriptive message"
-4- git log 
-4- git log --oneline 
+4- git log
+4- git log --oneline
 ==========================================================
-
-
-

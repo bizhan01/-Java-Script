@@ -3,3 +3,6 @@ document.querySelectorAll('.color').forEach(item => {
         document.body.style.backgroundColor = event.target.style.backgroundColor;
     });
 });
+
+Author: Rahmatullah Bizhan
+Email: rahmatullahbizhan@gmail.com 
