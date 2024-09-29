@@ -4,3 +4,9 @@ document.getElementById("addBtn").addEventListener("click", function() {
     listItem.textContent = item;
     document.getElementById("todoList").appendChild(listItem);
 });
+
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
