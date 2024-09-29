@@ -10,5 +10,6 @@ function stopTimer() {
     clearInterval(timer);
 }
 
+// javascript tutorial code
 // Author: Rahmatullah Bizhan
 // Email: rahmatullahbizhan@gmail.com
