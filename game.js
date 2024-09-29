@@ -1,3 +1,7 @@
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
+
 // Generate a random number between 1 and 10
 const randomNumber = Math.floor(Math.random() * 10) + 1;
 
