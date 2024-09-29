@@ -11,3 +11,8 @@ function guessNumber(number) {
 }
 
 console.log(guessNumber(5)); // Example guess
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
