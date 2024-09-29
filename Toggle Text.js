@@ -5,3 +5,8 @@ textElement.addEventListener('click', () => {
     textElement.textContent = isVisible ? 'Goodbye!' : 'Hello!';
     isVisible = !isVisible;
 });
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
