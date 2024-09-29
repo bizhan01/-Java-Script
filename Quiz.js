@@ -14,3 +14,8 @@ questions.forEach(({ question, answer }) => {
 });
 
 console.log(`You scored ${score} out of ${questions.length}`);
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
