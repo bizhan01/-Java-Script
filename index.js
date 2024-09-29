@@ -1,3 +1,7 @@
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
+
 console.log("Hello, World!");
 
 let message = "Hello, World!";
