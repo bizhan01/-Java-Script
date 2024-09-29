@@ -42,3 +42,9 @@ let getWeather = () => {
 };
 search.addEventListener("click", getWeather);
 window.addEventListener("load", getWeather);
+
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com

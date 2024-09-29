@@ -40,3 +40,9 @@ function getSummaryFromAPI(book) {
 
 // Call the asynchronous function to fetch book summaries
 fetchBookSummaries();
+
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
