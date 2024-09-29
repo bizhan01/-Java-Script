@@ -4,3 +4,8 @@ function calculate() {
     const result = num1 + num2;
     document.getElementById("result").innerText = "Result: " + result;
 }
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
