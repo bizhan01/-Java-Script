@@ -12,3 +12,9 @@ function generatePassword(length) {
 
 const passwordLength = 8;
 console.log('Generated Password:', generatePassword(passwordLength));
+
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
