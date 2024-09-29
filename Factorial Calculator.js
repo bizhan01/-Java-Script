@@ -5,3 +5,9 @@ function factorial(n) {
 
 const num = 5;
 console.log(`Factorial of ${num} is: ${factorial(num)}`);
+
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
