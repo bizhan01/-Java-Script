@@ -9,3 +9,8 @@ document.getElementById("decrementBtn").addEventListener("click", function() {
     count--;
     document.getElementById("countDisplay").innerText = count;
 });
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
