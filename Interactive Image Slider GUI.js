@@ -5,3 +5,9 @@ document.getElementById("nextBtn").addEventListener("click", function() {
     currentImageIndex = (currentImageIndex + 1) % images.length;
     document.getElementById("image").src = images[currentImageIndex];
 });
+
+
+
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
