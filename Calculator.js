@@ -25,5 +25,6 @@ console.log(divide(10, 2));   // Output: 5
 console.log(divide(7, 0));    // Output: Error: Division by zero!
 
 
+// javascript tutorial code
 // Author: Rahmatullah Bizhan
 // Email: rahmatullahbizhan@gmail.com
