@@ -5,6 +5,10 @@ function computerPlay() {
     return choices[randomIndex];
 }
 
+// javascript tutorial code
+// Author: Rahmatullah Bizhan
+// Email: rahmatullahbizhan@gmail.com
+
 // Function to play a round of rock-paper-scissors
 function playRound(playerSelection, computerSelection) {
     playerSelection = playerSelection.toLowerCase();
